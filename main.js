@@ -109,7 +109,7 @@ buttonEje9_1b.addEventListener("click", () => { eliminar(inputEmail, texto) }); 
 
 
 
-// Comentar ejercicios, arreglar detalles, armar el readme y nada mas pa
+
 
 
 
